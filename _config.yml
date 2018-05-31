@@ -70,11 +70,11 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  # rss: false
   email: "izalfathoni@gmail.com"
   facebook: izal.fat23
   github: nacasha
-  twitter: daattali
+  # twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -85,7 +85,7 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+ steam: nacasha
 #  twitch: yourname
 #  yelp: yourname
 
@@ -103,7 +103,7 @@ url-pretty: "nacasha.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-108907775-2"
 
 # Google Tag Manager ID
 #gtm: ""
